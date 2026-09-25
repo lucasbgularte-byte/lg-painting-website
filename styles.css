@@ -50,3 +50,8 @@
 .dark form .notice{color:#3047A7}
 @media(max-width:960px){.lp-hero-grid{grid-template-columns:1fr}.lp-card{max-width:620px}}
 @media(max-width:640px){.lp-nav .brand small{display:none}.lp-nav .btn{padding:11px 13px}.lp-hero{padding:64px 0}.lp-hero h1{font-size:3.15rem}}
+
+.founder-panel{padding:30px;border-radius:22px;background:linear-gradient(135deg,#101722,#253249);color:#fff;box-shadow:var(--shadow)}
+.founder-panel p{color:#C7CFDC}
+.founder-points{display:flex;flex-wrap:wrap;gap:9px;margin-top:22px}
+.founder-points span{padding:8px 10px;border-radius:999px;background:rgba(255,255,255,.08);border:1px solid rgba(255,255,255,.11);font-size:.8rem;font-weight:800}
